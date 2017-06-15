@@ -1,0 +1,20 @@
+   #modal_title{
+      
+      float: left !important;
+      width: 50% !important;
+    }
+    #modal_price{
+      text-align: right !important;
+      float: right !important;
+      width: 50% !important;
+
+    }
+    #modal_category{
+      margin-top: 3em !important;
+    }
+
+    .modal-footer{
+      margin-top: -5em !important;
+    }
+
+    

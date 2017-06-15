@@ -1,0 +1,23 @@
+.nav-wrapper{
+	background-color: #8BB95F;
+}
+
+.page-footer{
+	background-color: #8BB95F !important;
+}
+
+
+
+ body {
+    display: flex !important;
+    min-height: 100vh !important;
+    flex-direction: column !important;
+  }
+
+  main {
+    flex: 1 0 auto !important;
+  }
+
+
+
+
